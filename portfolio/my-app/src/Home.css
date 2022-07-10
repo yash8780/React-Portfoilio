@@ -1,0 +1,53 @@
+body{
+    position: relative;
+width: 100vh;
+height: 100vh;
+
+background: linear-gradient(90deg, #141E30 0%, #243B55 100%);
+}
+
+
+img{
+    margin-top: 40px;
+    margin-left: 850px;
+    height: 85%;
+    width: 85%;
+    padding-bottom: 60px;
+    
+}
+.intro{
+   /* border:2px solid red; */
+    color: gold;
+    font-size: 34px;
+    width: 700px;
+    margin-top: 0px;
+  
+}
+#t1{
+    margin-left: 50px;
+    font-size: 30px;
+    color: gold;
+}
+#name{
+    font-size: 70px;
+    color: #FFFFFF;
+    margin-left: 30px;
+    font-weight: bold;
+    line-height: 50px;
+}
+
+#text{
+    
+position: absolute;
+width: 800px;
+/* height: 38px; */
+/* left: 50px; */
+top: 150px;
+
+font-style: normal;
+/* font-weight: 500; */
+font-size: 24px;
+line-height: 50px;
+
+color: #FFFFFF;
+}
