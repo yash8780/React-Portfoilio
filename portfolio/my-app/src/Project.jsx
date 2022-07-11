@@ -11,7 +11,7 @@ function RenderingArrayOfObjects() {
   {
     name:"Project 2",
     description:"Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam",
-    pname:"Github Repo",
+    pname:"Profile Founder",
     github:"https://github.com/yash8780/React-Project/tree/master/my%20Project/Github%20Repo/my-app",
     
   },
